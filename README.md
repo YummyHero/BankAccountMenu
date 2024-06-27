@@ -17,7 +17,7 @@ Initial display: <br/>
 <img src="https://i.imgur.com/Urp0x91.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Display menu and corresponding action after selection: <br/>
+Display the menu and corresponding actions after each selection: <br/>
 <img src="https://i.imgur.com/nf0p3WT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
