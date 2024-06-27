@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Create a new program that displays a bank account menu.
+Create a program that displays a bank account menu.
 <br />
 
 
